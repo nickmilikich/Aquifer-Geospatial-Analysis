@@ -10,6 +10,6 @@ The project is contained in Midterm2.R, and can be run by simply executing this 
 
 Running this code requires that the R packages geostatsp, geoR, fields, and ggplot2 be installed.
 
-No additional files need to be included in the directory; the data is included in one of the packages used in the program.
+No additional files need to be included in the directory; the data is included in the packages used in the program.
 
 This project was run using R version 4.0.3.
